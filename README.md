@@ -1,0 +1,1 @@
+In deze repo ga ik een oefenopdracht voor Odin project uitvoeren. Doel: pagina namaken, wat elementen rond bewegen, en oefenen.
